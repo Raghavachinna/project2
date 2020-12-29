@@ -1,1 +1,2 @@
 hello welcome togit hub tutorial
+git add, commit 
